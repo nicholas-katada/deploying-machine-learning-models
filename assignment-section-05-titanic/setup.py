@@ -8,7 +8,7 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'titanic-regression-model'
 DESCRIPTION = "Assignment for kaggle titanic problem"
-URL = "https://github.com/trainindata/testing-and-monitoring-ml-deployments"
+URL = "https://github.com/nicholas-katada/deploying-machine-learning-models/tree/master/assignment-section-05-titanic"
 EMAIL = "nicholas.katada.work@gmail.com"
 AUTHOR = "Nicholas Katada"
 REQUIRES_PYTHON = ">=3.6.0"
